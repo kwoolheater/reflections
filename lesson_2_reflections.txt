@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+This creates a file named .git. This is neccessary in order to have any sort of version control
+because this is where you save all of the versions of your code. Otherwise you will just have 
+files.
+
+How is the staging area different from the working directory and the repository? What value do
+you think it offers?
+I believe the working directory is the directory and everything that you have saved. That is why
+you can add things to it and look at the status of files through it. 
