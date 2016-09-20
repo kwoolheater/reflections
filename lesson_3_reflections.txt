@@ -7,3 +7,10 @@ your remote repository?
 You would always want to pull changes manually so that unfinished parts of the code don't get automatically 
 pulled making the file unfinished. If you only manually pull and push changes, then you will only have 
 completed versions of the file.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used on github to clone a file that is on someone else's profile. A fork will always point back to
+the original file on the original user profile; however you can make edits to this fork (add or delete code).
+A branch is something you would use for an update to an application that you are making, one branch is the 
+update and the other is the version that is currently on the app store. A clone is just a copy on your computer
+of a repository.
