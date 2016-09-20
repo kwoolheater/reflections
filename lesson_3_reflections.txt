@@ -14,3 +14,8 @@ the original file on the original user profile; however you can make edits to th
 A branch is something you would use for an update to an application that you are making, one branch is the 
 update and the other is the version that is currently on the app store. A clone is just a copy on your computer
 of a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The biggest benefit of this is so you don't make changes on the local copy without knowing of the changes that
+are saved online. This way there is minimal conflicts between the version on github and the version stored 
+locally.
