@@ -19,3 +19,9 @@ What is the benefit of having a copy of the last known state of the remote store
 The biggest benefit of this is so you don't make changes on the local copy without knowing of the changes that
 are saved online. This way there is minimal conflicts between the version on github and the version stored 
 locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could collaborate using email, Google Docs, Dropbox, and a few different types of collaboration tools. This
+would be simpler to do simple things, but it would be harder to do more complex things like merging different 
+files and things that are specific to code.
+
